@@ -1,6 +1,3 @@
-//Jeffrey C. Slocum
-//jcs307
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
